@@ -1,0 +1,13 @@
+[package]
+name = "scheduling"
+version = "0.1.0"
+authors = ["Jacob Brown <kardeiz@gmail.com>"]
+edition = "2018"
+documentation = "http://docs.rs/scheduling"
+description="A simple job scheduler"
+readme = "README.md"
+keywords = ["scheduler", "job", "task", "task-scheduler"]
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
