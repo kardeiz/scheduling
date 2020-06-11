@@ -1,6 +1,6 @@
 # scheduling
 
-A very simple job scheduler. Runs one job (one-time or recurring) on one apawned thread.
+A very simple job scheduler. Runs one job (one-time or recurring) on one spawned thread.
 
 ## Usage
 
